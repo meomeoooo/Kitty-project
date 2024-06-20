@@ -1,0 +1,219 @@
+body{
+    margin:0;
+}
+
+.intro {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(201, 207, 147, 0.877);
+}
+
+.content {
+    flex: 8;
+}
+.slogan{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 4px -3px rgb(163, 163, 133);
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 18px;
+}
+.kitty-img {
+margin-left: 230px;
+}
+.kitty-img img{
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.meo {
+margin-left: 350px;
+font-size: 20px;
+font-family:Verdana;
+font-weight: bold;
+text-shadow: 1.5px 1px rgb(121, 122, 111);
+}
+.conmeo {
+text-align: center;
+margin-left: 60px;
+margin-top: 10px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+}
+.meo-anh  {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(31, 31, 29) ; 
+    margin-top: 30px;
+    text-indent: 20px;
+    font-size: 20px;
+    text-align:center ;
+    margin-left: 80px;
+    margin-right: 20px;
+    line-height: 30px;
+}
+.dihoc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px rgb(163, 163, 133);
+    margin-top: -40px;
+}
+.meo1 {
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.plan {
+    text-align: center;
+}
+.comingsoon {
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(129, 25, 25);
+    text-shadow: 4px 4px rgb(126, 91, 91);
+}
+.comingsoonplan {
+    margin-top: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.readmore a {
+    color: rgb(116, 99, 28);
+}
+.readmore {
+    margin-top: 5px;
+}
+.planvideo {
+    margin-top: 20px;
+}
+.store {
+    text-align: center;
+    margin-top: -10px;
+    box-shadow: 0px 2px 0px 0px rgb(134, 128, 68);
+    padding: 20px 20px;
+    border-radius: 30px;
+}
+.store1 a {
+    text-decoration: none;
+    color: rgb(88, 85, 41);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.store2 ul {
+    text-align: center;
+    list-style: none;
+}
+.taikhoan ul {
+    margin-top: -30px;
+    list-style: none;
+    text-align: center;
+    box-shadow: 0px 2px 0px 0px rgb(134, 128, 68);
+    padding: 20px 20px;
+    border-radius: 30px;
+}
+.bankaccount h3 {
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(88, 85, 41);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.catalogue{
+    box-shadow: 0px 0px 9px rgb(255, 255, 255);
+    padding: 0px 25px;
+    border-radius: 100px;
+}
+.list-catalogue {
+    margin-left: 0px;
+    margin-top: 28px;
+    box-shadow: 0px 5px 8px 2px rgb(134, 128, 68);
+    padding:8px 9px;
+    
+}
+.list-catalogue a {
+    text-decoration: none;
+    color: rgb(60, 48, 48);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 60px;
+    margin-left: 5px   ;
+}
+.kitty-catalogue {
+font-weight: bold;
+font-size: 20px;
+margin-top: 85px;
+box-shadow: 0px 4px 4px rgb(182, 165, 67);
+padding:20px 28px ;
+border-radius: 50px;
+background-color:rgb(139, 121, 40);
+margin-right: 0px;
+
+}
+.girl {
+    height: 945px;
+    width: 915x;
+}
+
+.img-web img{
+    margin-left: 225px;
+    box-shadow: 0px 1px 30px rgb(32, 29, 29);
+    margin-top:30px;
+    background-color: pink
+
+}
+.man{
+    display:flex;
+    justify-content: center;
+}
+.man img{
+    margin-top: 20px;
+    margin-left: 72px;
+    box-shadow: 0px 1px 30px rgb(97, 90, 91)
+   
+}
+
+
+.fairytail{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top:-17px;
+    margin-left: 30px;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  
+}
+.button-des{
+    
+    padding: 10px 49px;
+    background-color:rgb(139, 121, 40);
+    color: rgb(182, 190, 132);
+    font-weight:lighter;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* hiện bàn tay khi chỉ vào */
+    cursor: pointer;
+    transition: 0.5s;
+   
+}
+/* chỉnh màu khi đưa chuột vào */
+.button-des:hover{
+    opacity :inherit ;
+    transition-duration: 0.5s;
+    background-color: rgb(189, 190, 130);
+    color:gray  ;
+    box-shadow: 0px 0px 6px rgb(86, 88, 44);
+}
+.video-text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: rgb(109, 105, 49);
+    text-align: center;
+}
